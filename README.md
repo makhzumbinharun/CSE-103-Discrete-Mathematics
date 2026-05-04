@@ -2,8 +2,8 @@
 
 # 🧮 CSE-103: Discrete Mathematics
 
-![Course Code](https://img.shields.io/badge/Course_Code-CSE--103-2563eb?style=for-the-badge)
-![University](https://img.shields.io/badge/University-BUBT-16a34a?style=for-the-badge)
+![Course Code](https://img.shields.io/badge/Course_Code-CSE--103-16a34a?style=for-the-badge)
+![University](https://img.shields.io/badge/University-BUBT-2563eb?style=for-the-badge)
 ![Degree](https://img.shields.io/badge/Degree-B.Sc._Engineering-f59e0b?style=for-the-badge)
 
 ### 📚 Academic Repository for Discrete Mathematics Coursework
