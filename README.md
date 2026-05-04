@@ -1,61 +1,84 @@
+<div align="center">
+
 # 🧮 CSE-103: Discrete Mathematics
 
-![Course Code](https://img.shields.io/badge/Course_Code-CSE--103-blue?style=for-the-badge)
-![University](https://img.shields.io/badge/University-BUBT-success?style=for-the-badge)
-![Degree](https://img.shields.io/badge/Degree-B.Sc._Engineering-orange?style=for-the-badge)
+![Course Code](https://img.shields.io/badge/Course_Code-CSE--103-2563eb?style=for-the-badge)
+![University](https://img.shields.io/badge/University-BUBT-16a34a?style=for-the-badge)
+![Degree](https://img.shields.io/badge/Degree-B.Sc._Engineering-f59e0b?style=for-the-badge)
 
-Welcome to the repository for **CSE-103: Discrete Mathematics**. This repository serves as a centralized hub for all my academic coursework, notes, assignments, and study materials for this subject as part of my B.Sc. Engineering program at the **Bangladesh University of Business and Technology (BUBT)**.
+### 📚 Academic Repository for Discrete Mathematics Coursework
+
+</div>
+
+---
 
 ## 📖 Primary Reference Book
 
-This course relies on the following textbook. You can access the book via the link below:
+> **Discrete Mathematics and Its Applications (7th Edition)**  
+> 🔗 **[Access the Book Here](https://drive.google.com/file/d/1uMm_tHm47vTNKbWMdqoMpSs0SlU-jFC6/view)**
 
-- **Discrete Mathematics and Its Applications 7th Edition**  
-  🔗 **[Click Here to Access the Book](https://drive.google.com/file/d/1uMm_tHm47vTNKbWMdqoMpSs0SlU-jFC6/view)**
+---
 
 ## 🎯 About the Course
 
-Discrete Mathematics provides the mathematical foundation for computer science and engineering. This repository is dedicated to exploring topics that are essential for algorithm design, data structures, and logical reasoning.
+Discrete Mathematics builds the mathematical foundation for computer science and software engineering.  
+This repository contains organized academic resources, notes, assignments, and references related to the course.
 
-### Key Topics Covered
+### Topics Covered
 
-- **Mathematical Logic:** Propositional logic, predicate logic, and proofs  
-- **Set Theory:** Sets, relations, and functions  
-- **Combinatorics:** Counting principles, permutations, and combinations  
-- **Graph Theory:** Graphs, trees, and their real-world applications  
-- **Boolean Algebra:** Logic gates and Boolean expressions  
-- **Number Theory:** Modular arithmetic and cryptography basics  
+- **Mathematical Logic** — Propositional logic, predicate logic, proofs  
+- **Set Theory** — Sets, relations, functions  
+- **Combinatorics** — Counting principles, permutations, combinations  
+- **Graph Theory** — Graphs, trees, traversals  
+- **Boolean Algebra** — Logic gates, Boolean expressions  
+- **Number Theory** — Modular arithmetic, cryptography basics  
+
+---
 
 ## 📂 Repository Structure
 
 ```text
 📁 CSE-103-Discrete-Mathematics
- ┣ 📂 Assignments        # Solutions to course assignments and homework
- ┣ 📂 Class_Notes        # Digitized notes and lecture summaries
- ┣ 📂 Presentations      # Slides and presentation materials
- ┣ 📂 Resources          # Additional PDFs, formulas, and cheatsheets
- ┗ 📜 README.md          # Repository documentation
+ ┣ 📂 Assignments        # Homework / Assignment Solutions
+ ┣ 📂 Class_Notes        # Lecture Notes and Summaries
+ ┣ 📂 Presentations      # Presentation Slides
+ ┣ 📂 Resources          # Books, Formula Sheets, PDFs
+ ┗ 📜 README.md          # Repository Documentation
 ```
 
-## 🚀 How to Use This Repository
+---
 
-Clone the repository to your local machine:
+## 🚀 Getting Started
+
+Clone the repository:
 
 ```bash
 git clone https://github.com/makhzumbinharun/CSE-103-Discrete-Mathematics.git
 ```
 
-- Navigate to the specific folder to find the relevant notes or assignments  
-- Use the materials for study and reference  
+Then:
+
+1. Navigate to the desired folder  
+2. Open notes/assignments/resources  
+3. Use for study and revision  
+
+---
 
 ## 🎓 About Me
 
-I am a B.Sc. Engineering student at Bangladesh University of Business and Technology (BUBT). I maintain this repository to document my academic journey, keep my coursework organized, and help peers who might find these resources useful.
+I am a **B.Sc. Engineering student** at **Bangladesh University of Business and Technology (BUBT)**.  
+This repository helps me organize my academic work and share resources with fellow students.
 
-### Let's Connect
+---
+
+## 🌐 Connect With Me
 
 - **GitHub:** [@makhzumbinharun](https://github.com/makhzumbinharun)
 
 ---
 
-⭐ If you find this repository helpful, feel free to give it a star!
+<div align="center">
+
+### ⭐ If this repository helps you, consider giving it a star!
+
+</div>
